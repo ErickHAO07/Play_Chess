@@ -19,9 +19,15 @@
     --font-garamond: Garamond, Baskerville, serif;
 
 
+    --text-fluid-title: clamp(2rem, 5vw, 3rem);
+
+
 
     --color-Theme: #121212;
-    --color-BottonTheme: #2563EB;
+    --color-botton-theme: #2563EB;
+
+
+
 
 
 

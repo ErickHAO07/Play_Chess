@@ -3,7 +3,7 @@
 function Header() {
     return (
         <header className="bg-Theme  w-full h-10">
-            <nav className="text-white  sm:text-xs md:text-2xl lg:text-3xl w-[97%] h-full flex gap-20 justify-end items-center">
+            <nav className="text-white text-sm sm:text-base md:text-xl lg:text-2xl w-[97%] h-full flex gap-20 justify-end items-center">
                 <a href="">Logar</a>
                 <a href="">Play</a>
                 <a href="">Home</a>

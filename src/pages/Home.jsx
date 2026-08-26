@@ -14,7 +14,7 @@ function Home() {
                 <ChessPlay />
 
                 <div className='flex flex-col self-center text-white  w-2/5'>
-                    <h1 className='font-helvetica font-bold text-6xl  ' >Play Chess with Us!</h1>
+                    <h1 className='text-fluid-title font-helvetica font-bold text-6xl  ' >Play Chess with us!</h1>
                     <p className='font-times'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia modi at maiores deleniti voluptate nulla tenetur ullam eius ad laboriosam enim minima rerum rem asperiores iste eveniet, aperiam cum quaerat.</p>
                     <input type="button" value="Start" className='bg-amber-900 w-1/2 self-center rounded-md text-white ' />
                 </div>
@@ -24,12 +24,12 @@ function Home() {
             <div className='flex flex-row w-full justify-between px-4'>
 
                 <div className='w-1/4'>
-                    <h2 className='text-3xl'>Learn chess with us</h2>
+                    <h2 className='text-fluid-title'>Learn chess with us</h2>
                     <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Molestias, dignissimos. Blanditiis provident aliquid tempore ratione ducimus nesciunt eum eius similique. Odit natus error exercitationem voluptatum at ex magni.</p>
-                    <input type="button" value="Play chess" className='bg-BottonTheme w-1/3 self-center rounded-md text-white' />
+                    <input type="button" value="Play chess" className='bg-botton-themeon-theme w-1/3 self-center rounded-md text-white' />
                 </div>
                 <div className=''>
-                    <h2 className='text-4xl'>Chalenge yourself Against our AI</h2>
+                    <h2 className='text-fluid-title'>Chalenge yourself Against our AI</h2>
 
                     <img className=' '
                         src={Rooke}
