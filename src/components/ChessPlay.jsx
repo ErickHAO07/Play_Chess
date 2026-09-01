@@ -5,7 +5,7 @@
 
 function ChessPlay() {
     return (
-        <div className="w-180 h-160 bg-blue-400 rounded-2xl">
+        <div className="w-5/6 h-70 bg-blue-400 rounded-2xl">
 
         </div>
     )
