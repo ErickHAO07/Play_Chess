@@ -4,7 +4,7 @@ import Header from '../src/components/Header.jsx'
 function App() {
 
     return (
-        <div className=" w-full min-h-dvh bg-Theme" >
+        <div className=" w-full min-h-dvh bg-LiteTheme" >
             <Header />
             <Home />
         </div>
