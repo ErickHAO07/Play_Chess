@@ -5,7 +5,6 @@ function App() {
 
     return (
         <div className=" w-full min-h-dvh bg-LiteTheme" >
-            <Header />
             <Home />
         </div>
     );

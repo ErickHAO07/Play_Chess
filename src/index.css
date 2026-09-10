@@ -21,8 +21,9 @@
 
     --text-fluid-title: clamp(2.1rem, 5vw, 3rem);
     --text-fluid-subtitle: clamp(1rem, 0.7rem + 1.5vw, 2.5rem);
-    --text-fluid-text: clamp(0.95rem, 0.8rem + 0.7vw, 1.5rem);
+    --text-fluid-text: clamp(1rem, 0.9rem + 0.7vw, 1.5rem);
     --text-fluid-buttons: clamp(1rem, 1rem + 1vw, 1.8rem);
+    --text-fluid-Footer: clamp(0.8rem, 0.5rem + 1vw, 1rem);
 
 
 
