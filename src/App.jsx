@@ -1,12 +1,18 @@
-import Home from '../src/pages/Home.jsx'
+import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import Home from '../src/pages/Home.jsx';
+import Login from './pages/Login.jsx';
+
 
 
 function App() {
 
     return (
-        <div className=" w-full min-h-dvh bg-LiteTheme" >
-            <Home />
-        </div>
+        <BrowserRouter>
+            <Routes>
+                <Route path="/" element={<Home />} />
+                <Route path="/Login" element={<Login />} />
+            </Routes>
+        </BrowserRouter>
     );
 }
 

@@ -2,7 +2,7 @@
 
 function Footer() {
     return (
-        <footer className="grid grid-flow-row grid-rows-auto gap-2  mt-35 w-full">
+        <footer className="grid grid-flow-row grid-rows-auto gap-2  mt-20 lg:mt-30 w-full">
             <nav className="flex  list-none gap-1 w-full text-center items-center justify-center text-white/50 text-fluid-Footer font-arial font-bold ">
                 <a className="" >About us</a>
                 <a className="" >- Comunity</a>

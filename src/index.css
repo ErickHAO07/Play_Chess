@@ -19,9 +19,9 @@
     --font-garamond: Garamond, Baskerville, serif;
 
 
-    --text-fluid-title: clamp(1.5rem, 1rem + 2vw, 3rem);
-    --text-fluid-subtitle: clamp(1rem, 0.7rem + 1.5vw, 2.5rem);
-    --text-fluid-text: clamp(1rem, 0.7rem + 1vw, 1.5rem);
+    --text-fluid-title: clamp(1.5rem, 1rem + 2vw, 3.5rem);
+    --text-fluid-subtitle: clamp(1rem, 0.7rem + 1vw, 2.5rem);
+    --text-fluid-text: clamp(1rem, 0.8rem + 1vw, 2.5rem);
     --text-fluid-buttons: clamp(1rem, 1rem + 1vw, 1.8rem);
     --text-fluid-Footer: clamp(0.6rem, 0.6rem + 0.6vw, 1.2rem);
 
